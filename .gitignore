@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Model checkpoints (large; regenerate with train_classifier.py)
+*.pt
+
+# Dataset
+data/

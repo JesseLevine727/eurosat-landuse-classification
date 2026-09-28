@@ -1,0 +1,9 @@
+relative_path,true_label,predicted_label,confidence,predicted_probability,correct,output_path
+Forest/Forest_1277.jpg,Forest,Forest,0.9999932050704956,0.9999932050704956,True,/home/elfo/Documents/SYSC5108/Project/outputs/vit_attention_batch/Forest_1277_correct_attention.png
+Highway/Highway_1700.jpg,Highway,Highway,0.9999828338623047,0.9999828338623047,True,/home/elfo/Documents/SYSC5108/Project/outputs/vit_attention_batch/Highway_1700_correct_attention.png
+Pasture/Pasture_857.jpg,Pasture,Pasture,0.999995231628418,0.999995231628418,True,/home/elfo/Documents/SYSC5108/Project/outputs/vit_attention_batch/Pasture_857_correct_attention.png
+River/River_2248.jpg,River,River,0.9994737505912781,0.9994737505912781,True,/home/elfo/Documents/SYSC5108/Project/outputs/vit_attention_batch/River_2248_correct_attention.png
+Forest/Forest_430.jpg,Forest,HerbaceousVegetation,0.9912540316581726,0.9912540316581726,False,/home/elfo/Documents/SYSC5108/Project/outputs/vit_attention_batch/Forest_430_incorrect_attention.png
+PermanentCrop/PermanentCrop_2411.jpg,PermanentCrop,HerbaceousVegetation,0.9998856782913208,0.9998856782913208,False,/home/elfo/Documents/SYSC5108/Project/outputs/vit_attention_batch/PermanentCrop_2411_incorrect_attention.png
+PermanentCrop/PermanentCrop_539.jpg,PermanentCrop,HerbaceousVegetation,0.8412275314331055,0.8412275314331055,False,/home/elfo/Documents/SYSC5108/Project/outputs/vit_attention_batch/PermanentCrop_539_incorrect_attention.png
+Residential/Residential_480.jpg,Residential,Industrial,0.7673596143722534,0.7673596143722534,False,/home/elfo/Documents/SYSC5108/Project/outputs/vit_attention_batch/Residential_480_incorrect_attention.png
