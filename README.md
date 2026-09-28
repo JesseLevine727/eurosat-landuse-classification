@@ -1,6 +1,6 @@
 # EuroSAT Land-Use Classification: CNNs vs. Vision Transformers
 
-![EuroSAT test accuracy by model](figures/results.png)
+![EuroSAT test accuracy by model](figures/results.svg)
 
 Satellite land-use classification on the [EuroSAT RGB](https://github.com/phelber/EuroSAT)
 dataset (Sentinel-2, 64x64, 10 classes), comparing **ResNet** CNNs and a
@@ -44,7 +44,7 @@ Deterministic 70/15/15 train/validation/test split, 40 epochs, PyTorch.
 
 ```
 eurosat-landuse-classification/
-├── figures/results.png              # summary figure (above)
+├── figures/results.svg              # summary figure (above; TikZ source: results.tex)
 ├── train_classifier.py              # training + evaluation for all models
 ├── visualize_vit_attention.py       # single-image ViT attention maps
 ├── batch_visualize_vit_attention.py # batch correct/incorrect attention maps

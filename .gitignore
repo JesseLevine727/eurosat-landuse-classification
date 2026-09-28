@@ -8,3 +8,8 @@ __pycache__/
 
 # Dataset
 data/
+
+# LaTeX build intermediates
+*.aux
+*.log
+*.synctex.gz
